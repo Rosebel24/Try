@@ -1,0 +1,23 @@
+.bg {
+    background-color: #1f1d1c;
+}
+.container{
+    height: 550px;
+}
+.submit{
+    border: 0;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+.submit:hover{
+    background-color: #1c3f4d;
+    color: white;
+}
+
+/* footer{
+    background-color: yellow;
+    bottom: 0;
+} */
+
+
+
